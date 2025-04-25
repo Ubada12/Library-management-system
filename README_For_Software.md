@@ -34,7 +34,7 @@ Due to file size limits on GitHub, the complete application (.exe, libraries, an
 ### 🚀 How to Run the Application
 
 1. 📁 **Unzip** the downloaded folder anywhere (e.g., Desktop or Downloads).
-2. 🔍 Locate the file: Library_Management_System.exe
+2. 🔍 Locate the file: **Library_Management_System.exe**
 3. 🖱️ **Double-click** to launch the app.
 
 > ⚠️ **Do not delete the** `lib/` **or** `jre/` **folders** — they are essential for the application to run.
