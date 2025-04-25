@@ -1,6 +1,6 @@
 ## 📚 Library Management System – Version 2.0
 
-Thank you for downloading the **Library Management System** developed by **Rizvi Co-operation**.  
+Thank you for downloading the **Library Management System** developed by **UBADA GHAVTE**.  
 This is a standalone Java desktop application. No Java installation is required to run it.
 
 ---
