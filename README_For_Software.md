@@ -8,7 +8,7 @@ This is a standalone Java desktop application. No Java installation is required 
 ### 🛠 System Requirements
 
 - ✅ Windows 64-bit OS  
-- ✅ At least 500 MB free disk space  
+- ✅ At least 1.5 GB free disk space  
 - ✅ No need to install Java (JRE is bundled)
 
 ---
@@ -23,8 +23,11 @@ Due to file size limits on GitHub, the complete application (.exe, libraries, an
 
 ### 📦 What's Inside the ZIP
 
-Library_Management_System.exe ← Main application launcher Library_Management_System.jar ← Core Java application /lib/ ← Required libraries /jre/ ← Bundled Java Runtime Environment /icons/ ← Optional icons used by the app
-
+Library_Management_System.exe ← Main application launcher 
+Library_Management_System.jar ← Core Java application 
+/lib/ ← Required libraries 
+/jre/ ← Bundled Java Runtime Environment 
+/icons/ ← Optional icons used by the app
 
 ---
 
