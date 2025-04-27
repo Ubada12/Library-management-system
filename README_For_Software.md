@@ -10,6 +10,22 @@ This is a standalone Java desktop application. No Java installation is required 
 - ✅ Windows 64-bit OS  
 - ✅ At least 1.5 GB free disk space  
 - ✅ No need to install Java (JRE is bundled)
+- ✅ MySQL Server 8.0+ installed and running (for database connection)
+
+---
+
+### 🛢️ MySQL Database Requirement
+
+This application uses MySQL as the backend database.
+
+👉 If you don't have MySQL installed, you can download and install it here:
+- [🔗 Download MySQL Installer](https://dev.mysql.com/downloads/installer/)
+
+> ⚡ **Important Configuration**:
+> - Install **MySQL Server Only** (fast installation)
+> - Keep default port **3306**
+> - Use **Legacy Authentication Method** (MySQL 5.x compatible)
+> - Set a **root password** (you will need to enter it when logging into the app)
 
 ---
 
