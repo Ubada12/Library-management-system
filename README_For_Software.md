@@ -40,8 +40,8 @@ If you don't want to manually download MySQL:
 👉 **You can run the provided installer included inside the `resources/` folder**:
 
 ```bash
-/resources/mysql-installer-community-8.0.39.0.msi
-
+/resources/mysql-installer-community-8.0.39.0.msi  
+```
 
 ---
 
