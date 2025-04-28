@@ -19,13 +19,29 @@ This is a standalone Java desktop application. No Java installation is required 
 This application uses MySQL as the backend database.
 
 👉 If you don't have MySQL installed, you can download and install it here:
-- [🔗 Download MySQL Installer](https://dev.mysql.com/downloads/installer/)
+- [🔗 Download MySQL Installer (official site)](https://dev.mysql.com/downloads/installer/)
 
-> ⚡ **Important Configuration**:
-> - Install **MySQL Server Only** (fast installation)
-> - Keep default port **3306**
-> - Use **Legacy Authentication Method** (MySQL 5.x compatible)
-> - Set a **root password** (you will need to enter it when logging into the app)
+---
+
+> ⚡ **Very Important Configuration (Must Follow!):**
+> 
+> - ✅ Install **MySQL Server Only** (faster installation)
+> - ✅ Keep default port **3306** (default)
+> - 🔥 **Use Legacy Authentication Method (MySQL 5.x compatible)**  
+>   *(This is **VERY VERY IMPORTANT** to avoid connection issues with the app!)*
+> - ✅ Set a **root password** (you will need it when logging into the app)
+
+---
+
+### ⚡ Alternate (Faster) Installation Option
+
+If you don't want to manually download MySQL:
+
+👉 **You can run the provided installer included inside the `resources/` folder**:
+
+```bash
+/resources/mysql-installer-community-8.0.39.0.msi
+
 
 ---
 
