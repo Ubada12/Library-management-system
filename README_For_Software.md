@@ -49,7 +49,7 @@ If you don't want to manually download MySQL:
 
 Due to file size limits on GitHub, the complete application (.exe, libraries, and JRE) is hosted externally.
 
-👉 [**🔗 Click here to download the latest version (ZIP)**](https://drive.google.com/file/d/11btZ7ct1xinJOptS6RyPq5WYhj962Ct7/view?usp=sharing)
+👉 [**🔗 Click here to download the latest version (ZIP)**](https://shorturl.at/B1C8c)
 
 ---
 
